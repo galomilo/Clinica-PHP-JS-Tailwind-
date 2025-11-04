@@ -6,11 +6,11 @@ include('header.php');
     <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div>
             <div class="inline-flex items-center gap-3 mb-4">
-                <span class="bg-indigo-600 text-white text-xs font-semibold px-3 py-1 rounded-full">Proyecto diseño web estatico 6°</span>
+                <span class="bg-[#98a3f3] text-white text-xs font-semibold px-3 py-1 rounded-full">Proyecto diseño web estatico 6°</span>
                 <span class="text-sm text-gray-500">Demo / Portafolio</span>
             </div>
 
-            <h2 class="text-3xl md:text-4xl font-extrabold text-slate-800 dark:text-white mb-4">Sobre el proyecto</h2>
+            <h2 class="text-3xl md:text-4xl font-extrabold text-[#98a3f3] dark:text-white mb-4">Sobre el proyecto</h2>
 
             <p class="text-gray-700 dark:text-slate-300 mb-4 leading-relaxed">
                 Este sistema fue desarrollado de forma independiente como proyecto para demostrar
