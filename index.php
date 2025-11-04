@@ -72,10 +72,10 @@
             <div>
                 <h3 class="font-bold mb-2">Enlaces</h3>
                 <ul class="space-y-1">
-                    <li><a href="#" class="hover:text-blue-300">Pacientes</a></li>
-                    <li><a href="#" class="hover:text-blue-300">Diagnósticos</a></li>
-                    <li><a href="#" class="hover:text-blue-300">Consultas</a></li>
-                    <li><a href="#" class="hover:text-blue-300">Sobre nosotros</a></li>
+                    <li><a href="/clinica/Pacientes/pacientes_index.php" class="hover:text-blue-300">Pacientes</a></li>
+                    <li><a href="/clinica/Diagnosticos/diagnosticos_index.php" class="hover:text-blue-300">Diagnósticos</a></li>
+                    <li><a href="/clinica/Consultas/consultas_index.php" class="hover:text-blue-300">Consultas</a></li>
+                    <li><a href="/clinica/sobre_mi.php" class="hover:text-blue-300">Sobre nosotros</a></li>
                 </ul>
             </div>
 

@@ -33,6 +33,7 @@ include('../header.php');
 <body>
     <div class="bg-[#1d2666] mt-[200px] flex items-center text-white px-2 py-2 w-full h-[100px]">
         <!--<input type="text" class="text-black h-[38px] p-3 ml-2 w-full rounded" placeholder="Buscar...">-->
+        <span class="mx-10 text-[#98a3f3] text-3xl pacifico-regular">Pacientes</span>
         <a href="/clinica/Pacientes/pacientes_agregar.php" class="mx-10 bg-indigo-600 p-5 py-2 rounded">Agregar</a>
     </div>
 
