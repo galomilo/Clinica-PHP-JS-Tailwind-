@@ -2,7 +2,7 @@
 include('header.php');
 ?>
 
-<section id="about" class="bg-white/80 dark:bg-slate-900/80 mt-[200px] py-12 px-6 md:px-12">
+<section class="bg-white/80 dark:bg-slate-900/80 mt-[200px] py-12 px-6 md:px-12">
     <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div>
             <div class="inline-flex items-center gap-3 mb-4">
@@ -21,7 +21,7 @@ include('header.php');
                 <div>
                     <h3 class="text-sm font-semibold text-slate-700 dark:text-slate-200 mb-2">Tecnologías</h3>
                     <ul class="text-sm text-gray-600 dark:text-slate-300 list-disc pl-5">
-                        <li>PHP / MySQL (nativo)</li>
+                        <li>PHP / MySQL</li>
                         <li>Tailwind CSS</li>
                         <li>JavaScript para algo de interactividad</li>
                     </ul>
@@ -29,7 +29,7 @@ include('header.php');
             </div>
 
             <div class="flex items-center gap-4">
-                <a href="#" class="inline-block bg-indigo-600 hover:bg-indigo-700 text-white px-5 py-2 rounded shadow">Ver código / repositorio</a>
+                <a href="https://github.com/galomilo/Clinica-PHP-JS-Tailwind-" target="_blank" class="inline-block bg-indigo-600 hover:bg-indigo-700 text-white px-5 py-2 rounded shadow">Ver código / repositorio</a>
             </div>
         </div>
 
